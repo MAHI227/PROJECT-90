@@ -1,0 +1,15 @@
+body{
+    background-image: url("pastel\ galaxy\ background.jpg");
+}
+
+div{
+    background-color: whitesmoke;
+    margin: 20px;
+}
+#output{
+    background-color: whitesmoke;
+    border-radius:  10px;
+    border-top: 10px solid crimson;
+    padding:  10px;
+
+}
